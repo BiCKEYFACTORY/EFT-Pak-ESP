@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 2836886355
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b4d5446d6cff92f6a45710354a548ec2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1ba0e2aacfb5ca1d21dd124f854f5644
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: edc4237342b501348af457b4029d37d8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ba48b3434f1d0f45b0ee251c25be6f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9f79fd77e2ba284c8065f155e1d244b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/Prefabs/Wild_head_0.prefab
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/characters/character/materials/wildman01head_textures.bundle
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/characters/character/skeleton.bundle

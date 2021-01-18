@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2412132020
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 23e43da1ee3bf1a9b2449f5fb65295c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a96ed30c18c3e3cc22d9a101c0db6c99
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ba48b3434f1d0f45b0ee251c25be6f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b9f79fd77e2ba284c8065f155e1d244b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f294d108c7e139342a169f3d278ec0f3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Content/Characters/Character/Prefabs/Pants_usec_Tier3.prefab
+Dependencies:
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/shaders
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/cubemaps
+- C:/TeamCity/BuildAgent/work/eft-repo/client/StreamingAssets/Windows/assets/content/characters/character/skeleton.bundle
