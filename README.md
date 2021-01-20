@@ -8,7 +8,7 @@
 - Scavs (White), PMCs (White,Pink)), ScavBoss (Green)
 - Replace these files in: YOURDRIVE\Battlestate Games\EFT\EscapeFromTarkov_Data\StreamingAssets\Windows\assets\content\characters\character\prefabs
 
-![ESP-Screenshot](https://github.com/hvribbeck/eft-pak-esp/main/screenshot.png?raw=true)
+![ESP-Screenshot](screenshot.png)
 
 ## Items folder: Not included yet (Item ESP)
 - Coming soon.. 
