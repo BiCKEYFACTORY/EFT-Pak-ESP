@@ -11,7 +11,7 @@
 
 ![ESP-Screenshot](screenshot.png)
 
-## Items folder: Not included yet (Item ESP)
+## Items folder: Item ESP
 - Current highlighted items: Car battery, hose, tetriz, ledx, ssd, graphics card, intelligence folder, all keycards
 - Replace these files in: YOURDRIVE\Battlestate Games\EFT\EscapeFromTarkov_Data\StreamingAssets\Windows\assets\content\items\THERIGHTSUBFOLDER
 
