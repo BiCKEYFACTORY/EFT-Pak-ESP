@@ -2,16 +2,17 @@
  Modded Escape From Tarkov Unity Files. The textures from the .manifest and .bundle files were edited. There are some methods that allow the user to bypass the consistency check.
  Bypass used: Files must have the right file size as the original ones.
 
- These files were 'cracked' from p2c scammers who just build a license wall around some files :clown:
- Item ESP is from the thread linked down below.
+ BANWAVE ON 26th JANUARY 2021!
+ - ESP: Still UD (as of now) since it was not a public release!
+ - ItemESP: Might be detected (public release!)
 
-## Prefabs folder: Modded Unity Character Models (ESP)
+## Prefabs folder: Modded Unity Character Models (ESP) (Private PAK's!)
 - Scavs (White), PMCs (White,Pink)), ScavBoss (Green)
 - Replace these files in: YOURDRIVE\Battlestate Games\EFT\EscapeFromTarkov_Data\StreamingAssets\Windows\assets\content\characters\character\prefabs
 
 ![ESP-Screenshot](screenshot.png)
 
-## Items folder: Item ESP
+## Items folder: Item ESP (might be detected as of 26th January 2021! Public PAK's from the thread linked below!)
 - Current highlighted items: Car battery, hose, tetriz, ledx, ssd, graphics card, intelligence folder, all keycards
 - Replace these files in: YOURDRIVE\Battlestate Games\EFT\EscapeFromTarkov_Data\StreamingAssets\Windows\assets\content\items\THERIGHTSUBFOLDER
 
