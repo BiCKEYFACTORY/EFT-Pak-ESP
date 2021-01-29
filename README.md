@@ -5,6 +5,7 @@
  BANWAVE ON 26th JANUARY 2021!
  - ESP: Still UD (as of now) since it was not a public release!
  - ItemESP: Might be detected (public release!)
+ - No Ambient Sound: UD
 
 ## Prefabs folder: Modded Unity Character Models (ESP) (Private PAK's!)
 - Scavs (White), PMCs (White,Pink)), ScavBoss (Green)
@@ -16,8 +17,9 @@
 - Current highlighted items: Car battery, hose, tetriz, ledx, ssd, graphics card, intelligence folder, all keycards
 - Replace these files in: YOURDRIVE\Battlestate Games\EFT\EscapeFromTarkov_Data\StreamingAssets\Windows\assets\content\items\THERIGHTSUBFOLDER
 
-## Sounds folder: Not included yet (No Ambient Sound)
-- Coming soon..
+## Sounds folder: No Ambient Sound (Removes Wind Noise etc)
+- Removes ambient sounds like wind noise, water flow, rain etc
+- Replace the file inside the sound folder in: YOURDRIVE\Battlestate Games\EFT\EscapeFromTarkov_Data
 
 ### Credits
 Various user in the EFT Unknowncheats section
